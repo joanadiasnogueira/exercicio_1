@@ -1,0 +1,39 @@
+h1{
+		font-size:120px; 
+		color:#E3004C;
+		font-family:Georgia; 
+		text-align: center;}
+	h3 {
+		font-family: calibri;}
+
+	p{
+	font-size: 20px;
+	font-family: Georgia;
+	color: #13FAFA;
+	}
+	h2 { font-family: georgia; color: #E3004C;  }
+
+h2 span{
+	font-size: 30px;
+	color: #0026FA;
+	font-family: Georgia;
+	font-weight: initial; ;
+}
+h3 span{
+	color: #0026FA; 
+}
+h4 {
+	color: #0026FA; 
+	font-family: Georgia Normal;
+	font-weight: initial;
+}
+h5 {
+	font-family: Georgia;
+	font-weight: initial;
+	 
+}
+.centro {text-align: center;}
+.linha {text-decoration-line: underline;}
+.tamanho {font-size: 12px}
+.font1 {font-family: Calibri}
+.azul {color:#0026FA}
